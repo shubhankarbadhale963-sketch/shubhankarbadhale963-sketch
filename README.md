@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=111111&center=true&vCenter=true&width=700&lines=Shubhankar+Badhale;B.Tech+Student;Programming+%7C+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Shubhankar+Badhale;B.Tech+Student;Engineering+%7C+Programming" />
 
 </div>
 
@@ -8,46 +8,41 @@
 
 ## About
 
-B.Tech student focused on programming, problem solving, and building practical engineering skills. Interested in developing a strong foundation in core concepts and applying them through real-world work.
+B.Tech student focused on programming, problem solving, and practical engineering. Building strong fundamentals and applying them through real-world projects.
 
 ---
 
-## Focus Areas
+## Focus
 
-- Programming fundamentals  
-- Data structures and logic building  
+- Programming and logic building  
+- Data structures  
 - Core engineering concepts  
 - Project-based learning  
 
 ---
 
-## Skills
+## Stack
 
-Languages  
-C, Python, Java  
-
-Tools  
-Git, VS Code  
+C • Python • Java  
+Git • VS Code  
 
 ---
 
-## GitHub Overview
+## GitHub Activity
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shubhankarbadhale963-sketch&show_icons=true&theme=default" />
-
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarbadhale963-sketch&theme=default" />
+<img src="https://streak-stats.demolab.com?user=shubhankarbadhale963-sketch&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Activity
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarbadhale963-sketch&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarbadhale963-sketch&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
